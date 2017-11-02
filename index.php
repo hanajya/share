@@ -1,2 +1,2 @@
 <?php
- echo "inner分支中";
+ echo "分支中";
